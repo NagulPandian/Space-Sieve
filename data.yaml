@@ -1,0 +1,4 @@
+train: C:\Applied_Machine_Learning\Project\Data\yolo_data\train\images
+val: C:\Applied_Machine_Learning\Project\Data\yolo_data\val\images
+nc: 2  # number of classes
+names: ['debris', 'satellite']  # class names
